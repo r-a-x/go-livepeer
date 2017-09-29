@@ -130,3 +130,4 @@ We'll walk through the steps of becoming a transcoder on the test network.  To l
 Thank you for your interest in contributing to the core software of Livepeer.
 
 There are many ways to contribute to the Livepeer community. To see the project overview, head to our [Wiki overview page](https://github.com/livepeer/wiki/wiki/Project-Overview). The best way to get started is to reach out to us directly via our [gitter channel](https://gitter.im/livepeer/Lobby).
+
